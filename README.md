@@ -20,3 +20,8 @@ Software Design and Engineering, Algorithms and Data Structures, and Databases.
 It details improvements such as architectural restructuring, new algorithmic logic, improved searching and sorting, schema upgrades, parameterized queries, and better validation.
 
 ## 📄[CS-499 Capstone Enhancement Plan.pdf](CS-499%20Capstone%20Enhancement%20Plan.pdf)
+
+## ■ Link to Code Review Video(Youtube)
+
+🎬 https://youtu.be/ItMnUMikiOc
+
